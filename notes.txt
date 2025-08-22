@@ -1,1 +1,4 @@
 Line 1: Original content
+Line 2: Added feature A
+Line 3: Added feature B
+Line 4: Fixed typo in documentation
